@@ -1,12 +1,1 @@
--
 
-## 🔑 SQL File Descriptions
-
-- **01_database_setup.sql:** Sets up the main database and table structures.
-- **data_cleaning.sql:** Executes checks for nulls, duplicates and data validation.
-- **exploratory_analysis.sql:** Summarizes unique products, locations, category breakdowns, and initial sales statistics.
-- **business_analysis.sql:** Core business insights queries (e.g. top stores, peak hours, trends, category analysis).
-
----
-
-## 📈 Business Questions Answered
